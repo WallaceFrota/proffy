@@ -54,7 +54,7 @@ yarn start
 # Proffy Mobile
 ```
 # Na pasta mobile execute os comandos em seu terminal e aguarde sua instalação
-yarn ou npm install
+yarn install ou npm install
 
 # iniciando a aplicação mobile
 npx react-native run-android
