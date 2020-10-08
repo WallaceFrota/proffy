@@ -32,7 +32,7 @@ git clone https://github.com/WallaceFrota/proffy.git
 # Proffy Api
 ```
 # Na pasta server execute os comandos em seu terminal
-yarn add
+yarn install ou npm install
 
 # Após instalar todas as dependências, execute os comandos em seu terminal para rodar as migrations do banco de dados.
 
@@ -45,7 +45,7 @@ yarn start
 # Proffy Web
 ```
 # Na pasta web execute os comandos em seu terminal
-yarn add
+yarn install ou npm install
 
 # iniciando a aplicação
 yarn start
@@ -54,7 +54,7 @@ yarn start
 # Proffy Mobile
 ```
 # Na pasta mobile execute os comandos em seu terminal e aguarde sua instalação
-yarn add
+yarn ou npm install
 
 # iniciando a aplicação mobile
 npx react-native run-android
